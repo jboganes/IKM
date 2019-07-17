@@ -1,0 +1,11 @@
+form {
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
+#div1 {
+  border: 2px;
+}
+body{
+  background-color: black;
+}
